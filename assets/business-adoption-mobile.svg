@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="360" height="350" preserveAspectRatio="xMinYMin meet" viewBox="0 0 360 350" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="360" height="350"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-350)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="360" height="350" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="20" y="280.3333333333333" style="font-family: Helvetica; font-size: 14px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,560) scale(1,-1)">Information</text>
+			<rect x="20" y="245.33333333333331" width="290" height="23.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="20" y="245.33333333333331" width="115.13" height="23.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="142.13" y="249.33333333333331" style="font-family: Helvetica-Bold; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,498) scale(1,-1)">39.7%</text>
+			<text x="20" y="198.66666666666666" style="font-family: Helvetica; font-size: 14px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,397) scale(1,-1)">Finance and insurance</text>
+			<rect x="20" y="163.66666666666666" width="290" height="23.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="20" y="163.66666666666666" width="98.31" height="23.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="125.31" y="167.66666666666666" style="font-family: Helvetica-Bold; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,335) scale(1,-1)">33.9%</text>
+			<text x="20" y="117.0" style="font-family: Helvetica; font-size: 14px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,234) scale(1,-1)">National rate</text>
+			<rect x="20" y="82.0" width="290" height="23.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="20" y="82.0" width="57.42" height="23.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="84.42" y="86.0" style="font-family: Helvetica-Bold; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,172) scale(1,-1)">19.8%</text>
+			<text x="20" y="37" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,74) scale(1,-1)">Scale: 0-100%</text>
+			<text x="20" y="15" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,30) scale(1,-1)">Business use is not a displacement rate.</text>
+		</g>
+	</g>
+</svg>

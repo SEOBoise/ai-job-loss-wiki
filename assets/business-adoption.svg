@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="900" height="440" preserveAspectRatio="xMinYMin meet" viewBox="0 0 900 440" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="900" height="440"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-440)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="900" height="440" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 245,70 L 245,405 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="234.885" y="44" style="font-family: Helvetica; font-size: 14px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,88) scale(1,-1)">0%</text>
+			<path d="M 387.5,70 L 387.5,405 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="373.493" y="44" style="font-family: Helvetica; font-size: 14px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,88) scale(1,-1)">25%</text>
+			<path d="M 530,70 L 530,405 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="515.993" y="44" style="font-family: Helvetica; font-size: 14px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,88) scale(1,-1)">50%</text>
+			<path d="M 672.5,70 L 672.5,405 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="658.493" y="44" style="font-family: Helvetica; font-size: 14px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,88) scale(1,-1)">75%</text>
+			<path d="M 815,70 L 815,405 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="797.101" y="44" style="font-family: Helvetica; font-size: 14px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,88) scale(1,-1)">100%</text>
+			<text x="142.966" y="344.298" style="font-family: Helvetica; font-size: 17px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,688) scale(1,-1)">Information</text>
+			<rect x="245" y="321.25" width="226.28999999999996" height="53.60000000000002" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="483.28999999999996" y="344.298" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,688) scale(1,-1)">39.7%</text>
+			<text x="56.02800000000002" y="232.63133333333332" style="font-family: Helvetica; font-size: 17px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,465) scale(1,-1)">Finance and insurance</text>
+			<rect x="245" y="209.58333333333331" width="193.23000000000002" height="53.60000000000002" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="450.23" y="232.63133333333332" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,465) scale(1,-1)">33.9%</text>
+			<text x="131.627" y="120.96466666666667" style="font-family: Helvetica; font-size: 17px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,241) scale(1,-1)">National rate</text>
+			<rect x="245" y="97.91666666666667" width="112.86000000000001" height="53.60000000000001" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="369.86" y="120.96466666666667" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,241) scale(1,-1)">19.8%</text>
+			<text x="38" y="34" style="font-family: Helvetica; font-size: 15px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,68) scale(1,-1)">Business use is not a displacement rate.</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="900" height="440" preserveAspectRatio="xMinYMin meet" viewBox="0 0 900 440" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="900" height="440"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-440)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="900" height="440" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 245,70 L 245,405 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="234.885" y="44" style="font-family: Helvetica; font-size: 14px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,88) scale(1,-1)">0%</text>
+			<path d="M 387.5,70 L 387.5,405 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="373.493" y="44" style="font-family: Helvetica; font-size: 14px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,88) scale(1,-1)">25%</text>
+			<path d="M 530,70 L 530,405 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="515.993" y="44" style="font-family: Helvetica; font-size: 14px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,88) scale(1,-1)">50%</text>
+			<path d="M 672.5,70 L 672.5,405 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="658.493" y="44" style="font-family: Helvetica; font-size: 14px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,88) scale(1,-1)">75%</text>
+			<path d="M 815,70 L 815,405 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="797.101" y="44" style="font-family: Helvetica; font-size: 14px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,88) scale(1,-1)">100%</text>
+			<text x="81.56199999999998" y="313.947" style="font-family: Helvetica; font-size: 17px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,627) scale(1,-1)">Global employment</text>
+			<rect x="245" y="279.375" width="142.5" height="80.39999999999998" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="399.5" y="313.947" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,627) scale(1,-1)">25%</text>
+			<text x="58.90099999999998" y="146.447" style="font-family: Helvetica; font-size: 17px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,292) scale(1,-1)">High-income countries</text>
+			<rect x="245" y="111.875" width="193.8" height="80.39999999999998" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="450.8" y="146.447" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,292) scale(1,-1)">34%</text>
+			<text x="38" y="34" style="font-family: Helvetica; font-size: 15px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,68) scale(1,-1)">Exposure is not job loss; groups overlap.</text>
+		</g>
+	</g>
+</svg>

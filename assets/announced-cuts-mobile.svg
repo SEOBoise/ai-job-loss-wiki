@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="360" height="350" preserveAspectRatio="xMinYMin meet" viewBox="0 0 360 350" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="360" height="350"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-350)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="360" height="350" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="20" y="255" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,510) scale(1,-1)">529,914 total announced cuts</text>
+			<rect x="20" y="180" width="300" height="45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="20" y="180" width="65.77010609268673" height="45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="20" y="145" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,41%,42%); stroke:none;" transform="translate(0,290) scale(1,-1)">AI cited: 116,175 / 21.9%</text>
+			<text x="20" y="116" style="font-family: Helvetica; font-size: 14px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,232) scale(1,-1)">Other reasons: 413,739 / 78.1%</text>
+			<text x="20" y="29" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,58) scale(1,-1)">Announcement plans, not completed layoffs.</text>
+		</g>
+	</g>
+</svg>
